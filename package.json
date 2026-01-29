@@ -1,7 +1,7 @@
 {
   "name": "ai-responsive",
   "version": "1.0.0",
-  "description": "Make components responsive with proper breakpoints using AI",
+  "description": "AI-powered responsive design helper - media queries and breakpoints with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-responsive": "dist/cli.js"
@@ -9,7 +9,22 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["responsive", "breakpoints", "css", "ai", "cli", "tailwind", "mobile-first"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "responsive",
+    "css",
+    "media-queries",
+    "mobile-first",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "design",
+    "breakpoints"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
