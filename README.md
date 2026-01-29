@@ -1,5 +1,10 @@
 # ai-responsive
 
+[![npm version](https://img.shields.io/npm/v/ai-responsive.svg)](https://www.npmjs.com/package/ai-responsive)
+[![npm downloads](https://img.shields.io/npm/dm/ai-responsive.svg)](https://www.npmjs.com/package/ai-responsive)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Make any component responsive with proper breakpoints. Feed it a component file, get back a mobile-first responsive version.
 
 ## Install
