@@ -1,5 +1,5 @@
 {
-  "name": "ai-responsive",
+  "name": "@lxgicstudios/ai-responsive",
   "version": "1.0.0",
   "description": "AI-powered responsive design helper - media queries and breakpoints with GPT",
   "main": "dist/index.js",
