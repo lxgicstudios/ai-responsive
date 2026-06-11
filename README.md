@@ -16,7 +16,7 @@
 
 # AI Responsive
 
-solve specific development challenges with AI-powered insights.
+AI-powered responsive design helper — media queries, breakpoints, and mobile-first CSS from descriptions. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-responsive.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-responsive)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-responsive?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-responsive)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered responsive design helper - media queries and breakpoints with GPT.
+> AI-powered responsive design helper — media queries and breakpoints with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
