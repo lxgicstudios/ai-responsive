@@ -8,7 +8,7 @@
     "ai-responsive": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-responsive/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,27 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-responsive#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-responsive",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "ai-powered",
-    "lxgic",
-    "ai",
-    "automation",
-    "claude",
-    "gpt",
-    "cursor",
-    "copilot",
-    "agent",
-    "cli",
-    "devtools",
     "responsive-design",
+    "css",
     "media-queries",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "mobile-first",
+    "layout"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -62,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-responsive"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-responsive"
   },
   "scripts": {
     "build": "tsc"
