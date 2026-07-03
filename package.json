@@ -39,7 +39,9 @@
     "mobile-first",
     "layout",
     "url-structure",
-    "site-architecture"
+    "site-architecture",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
