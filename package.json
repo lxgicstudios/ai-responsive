@@ -8,7 +8,7 @@
     "ai-responsive": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-responsive/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-responsive",
+  "homepage": "https://github.com/LXGIC-Studios/ai-responsive",
   "keywords": [
     "responsive-design",
     "css",
@@ -41,7 +41,19 @@
     "url-structure",
     "site-architecture",
     "seo-optimized",
-    "clawdbot"
+    "clawdbot",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -52,8 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-responsive"
+    "url": "git+https://github.com/LXGIC-Studios/ai-responsive.git"
   },
   "scripts": {
     "build": "tsc"
