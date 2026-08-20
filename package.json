@@ -47,10 +47,7 @@
     "gpt",
     "layout",
     "media-queries",
-    "mobile-first",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "mobile-first"
   ],
   "license": "MIT",
   "main": "dist/index.js",
